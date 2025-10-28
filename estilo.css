@@ -327,7 +327,7 @@ nav.responsive.activo {
 }
 
 .skills .skill .barra-skill { /*barra de progreso*/
-    height: 12px;
+    height: 22px;
     background: #2f343a;
     border-radius: 8px;
     overflow: hidden;
